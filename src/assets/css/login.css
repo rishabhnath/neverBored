@@ -1,0 +1,19 @@
+.btn btn- p-1{
+
+    background-color: "#2D9B63";
+     border-radius : "16px";
+    color: "white";
+    padding: "8px";
+     width: "311px";
+     height: "64px"; 
+     position: "absolute";
+}
+.row col-lg-12 mt-4{
+    background-color: "#2D9B63";
+    border-radius : "16px";
+   color: "white";
+   padding: "8px";
+    width: "311px";
+    height: "64px"; 
+    position: "absolute";
+}

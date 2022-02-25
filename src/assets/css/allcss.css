@@ -1,0 +1,310 @@
+.starttext{
+    font-size: 80px;
+    font-weight: bold;
+    width: 600px;
+    margin-left: 120px;
+    margin-top: 100px;
+}
+.starttext2{
+    font-size: 80px;
+    font-weight: bold;
+    width: 600px;
+    margin-left: 120px;
+    margin-top: -98px;
+}
+.starttext1{
+    width: 500px;
+    margin-left: 130px;
+    margin-top: -60px;
+    font-size: 18px;
+}
+.discoverbtn{
+    text-transform:inherit !important;
+    margin-left: -690px !important;
+    margin-top: 10px !important;
+    width: 380px !important;
+    color: white !important;
+    background-color: #178FE1 !important;
+    height: 68px !important;
+    font-size: 22px !important;
+    border-radius: 10px !important;
+    font-family: 'Calibri' !important;
+}
+.howbtn{
+    text-transform: capitalize !important;
+    margin-left: 20px !important;
+    margin-top: 10px !important;
+    width: 180px !important;
+    color: #178FE1 !important;
+    background-color: #D3EDFF !important;
+    height: 69px !important;
+    font-size: 22px !important;
+    border-radius: 10px !important;
+    font-family: 'Calibri' !important;
+}
+.startuplink{
+    margin-left: 1100px !important;
+    color: gray !important;
+    text-decoration: none;
+    margin-top: -50px;
+}
+.investlink{
+    margin-left: 1300px !important;
+    color: gray !important;
+    text-decoration: none;
+    margin-top: -40px;
+}
+
+.investtext{
+    font-size: 13px;
+    width: 310px;
+    margin-left: 100px;
+}
+.startinvestpic{
+    margin-left: 500px;
+    margin-top: -350px;
+}
+.investtext1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: -1050px;
+}
+.grid{
+    margin-left: 100px !important;
+}
+.card{
+    height: 480px;
+    box-shadow: 30px;
+}
+.tagbox{
+    background-color: #D9BCBC;
+    height: 20px;
+    width: 100px;
+    margin-left: 30px;
+    /* margin-top: 80px; */
+    border-radius: 2px;
+}
+.tag{
+    font-size: 12px;
+    padding-top: 3px;
+    color: #C27171;
+}
+.tag2{
+    font-size: 15px;
+    padding-top: 3px;
+    color: #C27171;
+}
+.viewbtn{
+    margin-top: 80px !important;
+    background-color: #FAFBFF !important;
+    border: rgb(199, 192, 192) solid 0.5px !important;
+    text-transform: capitalize !important;
+    font-size: 18px !important;
+    border-radius: 0px !important;
+    width: 300px !important;
+    height: 60px !important;
+}
+/* blue footer css */
+.footergrid{
+    background-color: #178FE1 !important;
+    height: 450px !important;
+    margin-top: 80px !important;
+}
+.foottext{
+    color: white;
+    font-size: 13px;
+    margin-top: 180px;
+    margin-left: 100px;
+}
+.footheadtext{
+    color: white;
+    font-size: 22px;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.footheadtext1{
+    color: white;
+    margin-left: 10px;
+}
+.footheadtext2{
+    color: white;
+    margin-left: 8px;
+}
+.footheadtext3{
+    color: white;
+    margin-left: 5px;
+}.footheadtext4{
+    color: white;
+    margin-left: -3px;
+}.footheadtext5{
+    color: white;
+    margin-left: 1px;
+}
+.footheadtext6{
+    color: white;
+    margin-left: -15px;
+}.footheadtext7{
+    color: white;
+    margin-left: -22px;
+}.footheadtext8{
+    color: white;
+    margin-left: -7px;
+}
+.footheadtext9{
+    color: white;
+    margin-left: 12px;
+}.footheadtext10{
+    color: white;
+    margin-left: 40px;
+}.footheadtext11{
+    color: white;
+    margin-left: -27px;
+}.footheadtext12{
+    color: white;
+    margin-left: 20px;
+}.footheadtext13{
+    color: white;
+    margin-left: -25px;
+}.footheadtext14{
+    color: white;
+    margin-left: 5px;
+}.footheadtext15{
+    color: white;
+    margin-left: -15px;
+}.footheadtext16{
+    color: white;
+    margin-left: -7px;
+}.footheadtext17{
+    color: white;
+    margin-left: 15px;
+}.footheadtext18{
+    color: white;
+    margin-left: 0px;
+}
+/* Portfolio Page css */
+.portfohead{
+    font-size: 55px;
+    font-weight: bold;
+    margin-left: -650px;
+}
+.portfotext{
+    font-size: 15px;
+    margin-left: -950px;
+    margin-top: -35px;
+}
+.tagbox2{
+    background-color: #FFEDE3;
+    height: 30px;
+    width: 120px;
+    border-radius: 2px;
+    margin-left: 135px;
+}
+.tagbox3{
+    background-color: #FFEDE3;
+    height: 30px;
+    width: 120px;
+    border-radius: 2px;
+    margin-top: -45px !important;
+    margin-left: 290px;
+}
+.tagbox4{
+    background-color: #FFEDE3;
+    height: 30px;
+    width: 120px;
+    border-radius: 2px;
+    margin-left: 980px;
+    margin-top: 30px !important;
+}
+.portdollar{
+    color: #40BD5B;
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 590px;
+    margin-top: -335px;
+}
+.globalraise{
+    color: #40BD5B;
+    margin-left: 675px;
+    margin-top: -25px;
+    font-size: 17px;
+}
+.exlamationbox{
+    background-color: #FFEDE3;
+    height: 25px;
+    width: 30px;
+    border-radius: 2px;
+    margin-left: 1400px;
+    margin-top: -35px;
+}
+.exlamation{
+    color: #C27171;
+    font-weight: bold;
+}
+.portdivider{
+    background-color: #40BD5B !important;
+    height: 5px !important;
+    width: 455px;
+    margin-left: 977px !important;
+    margin-top: 15px !important;
+}
+.investorno{
+    font-size: 40px;
+    margin-left: 490px;
+    font-weight: bold;
+    color: rgb(100, 100, 100);
+    margin-top: 25px;
+}
+.investor{
+    font-size: 20px;
+    margin-left: 500px;
+    margin-top: -38px;
+}
+.days{
+    font-size: 40px;
+    margin-left: 565px;
+    font-weight: bold;
+    color: rgb(100, 100, 100);
+    margin-top: 30px;
+}
+.left{
+    font-size: 20px;
+    margin-left: 530px;
+    margin-top: -38px;
+}
+.portinvestbtn{
+    background-color: #178FE1 !important;
+    color: white !important;
+    text-transform: capitalize !important;
+    height: 55px !important;
+    margin-left: 860px !important;
+    width: 420px !important;
+    margin-top: 10px !important;
+    border-radius: 5px !important;
+    font-size: 20px !important;
+}
+.pitchinvestbtn{
+    background-color: #178FE1 !important;
+    color: white !important;
+    text-transform: capitalize !important;
+    height: 55px !important;
+    margin-left: 50px !important;
+    width: 28% !important;
+    margin-top: 10px !important;
+    border-radius: 5px !important;
+    font-size: 20px !important;
+}
+.pitchbtndollor{
+    color: gray !important;
+    border: #178FE1 solid 1px !important;
+    height: 53px !important;
+    text-transform: capitalize !important;
+    width: 130px !important;
+    margin-top: 10px !important;
+    border-radius: 5px !important;
+}
+/* Investment Page CSS */
+.investhead{
+    font-size: 55px;
+    font-weight: bold;
+    margin-left: -400px;
+}
